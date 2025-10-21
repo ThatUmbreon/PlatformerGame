@@ -1,0 +1,14 @@
+Level Editor Controls:
+      Up - Move Up/Thin
+    Down - Move Down/Widen
+    Left - Move Left/Shorten
+   Right - Move Right/Lengthen
+       Z - Create New Platform
+       X - Delete Platform
+       C - Save Level
+       V - Test Level
+     Tab - Cycle Selected Platform
+Backtick - Switch Move/Scale
+Num. 1-8 - Set Platform Type
+       0 - Set Platform Assist Mode Only
+     F11 - Toggle Full Screen

@@ -1,0 +1,44 @@
+PlatformerGame To Do's:
+ + Implement Save and Load
+   + Create New Save Files
+   + Save Base Game Progress, Nightmare Mode Progress, and Whether or Not Used Assist Mode to Beat Each Level
+   + Load File
+ + Replace All Uses of PyAutoGUI with Hand-coded Alternatives
+   + Alert is Replaced by WriteLines
+   + Prompt is Replaced by Textbox
+   + Confirm is Replaced by Selector
+ / Create Title Screen
+   + Options for Creating and Loading Saves
+   + Links to Things Like the Eventual Options Menu and the Level Editor
+   + Quit Game Button
+   - Typing in 'WHYALFRED' Unlocks Nightmare Mode as an Option
+ / Create Options Menu
+   + New Location for Assist Mode, Volume Controls and Control Styles
+   - Check All Controls in Both Base Game and Editor
+   - Typing in '^^vv<><>UMBR' Unlocks Debug Options
+ - Create Level Select Menu
+   - Allows Easy Level Switching
+   - Shows Which Levels the Player Needed Assist Mode to Beat
+   - Assist Mode Marker Goes Away Once the Player Beats the Level Without Assist Mode
+ - Create Pause Menu
+   - Links to Options Menu and Level Select
+   - Save and Quit to Title Button
+ - Create New Level Ideas
+ - Create Ending + Credits Sequence
+   - Credits to Jed for Level 3
+   - Credits to Alfred for Nightmare Mode
+   - SFX Credits
+   - Credits to Pygame Devs for Making It All Possible
+   - All Other Credits to Me
+ - Create Background Music
+ - Draw Art
+   - Title Graphic
+   - Game Icon
+   - Background Graphics
+   - Any Additional Art
+ - Deliberate How Much to Charge on Steam
+ - Figure Out How to Get Working on Steam
+ - Upload Both Full and Demo Versions on Steam
+   - Demo is Missing Most Levels, Nightmare Mode, and the Level Editor
+ - Distribute Steam Keys to Friends
+ - Profit (hopefully)
