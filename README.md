@@ -1,2 +1,2 @@
 This game is simply a passion project of mine.
-To play, download the zip file, extract it, and run the executable.
+To play, download the compiled folder and run the executable.
