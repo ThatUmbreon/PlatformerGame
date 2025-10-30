@@ -607,9 +607,9 @@ def editor():
             start = True
 
 def editLvl(lNme,pArr):
-    global hVel
-    global vVel
     global dTxt
+    hVel = 0
+    vVel = 0
     eArr = pArr
     savd = False
     pSel = 0
